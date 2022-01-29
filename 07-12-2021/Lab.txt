@@ -1,0 +1,3 @@
+1. Create a shared memory that holds the product of two numbers and another process to read from the memory
+2. Create a shared memory that holds the number of vowels in a string and another process to read from the memory
+3. Allocate 1024 bytes to a shared memory, user exceeds the limit. Change the allocation to 2048 bytes and continue the operation.
